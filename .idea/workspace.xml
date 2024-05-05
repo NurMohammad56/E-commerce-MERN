@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="20a39608-2170-4054-a7f3-29482a795da6" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Helpers/emailHelper.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Helpers/emailHelper.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Helpers/tokenHelper.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Helpers/tokenHelper.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/controller/userController.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/controller/userController.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/middleware/tokenHelper.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/middleware/authVerification.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/route/api.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/route/api.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/services/userServices.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/services/userServices.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2Z7JlScAv07qnXgYb5mFXacUtCb" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "javascript.nodejs.core.library.configured.version": "20.10.0",
+    "javascript.nodejs.core.library.typings.version": "20.10.0",
+    "last_opened_file_path": "C:/Users/milon/Desktop/aliba-ecommerce-project",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="20a39608-2170-4054-a7f3-29482a795da6" name="Changes" comment="" />
+      <created>1701767335097</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1701767335097</updated>
+      <workItem from="1701767338479" duration="13490000" />
+      <workItem from="1702113334289" duration="6561000" />
+      <workItem from="1702190302195" duration="14009000" />
+      <workItem from="1702286587654" duration="2599000" />
+      <workItem from="1702534045522" duration="3085000" />
+      <workItem from="1702562614082" duration="17000" />
+      <workItem from="1702793724324" duration="7709000" />
+      <workItem from="1702901745432" duration="3390000" />
+      <workItem from="1702969166287" duration="7000" />
+      <workItem from="1703088432968" duration="3908000" />
+      <workItem from="1703393346556" duration="5506000" />
+      <workItem from="1703504038428" duration="4125000" />
+      <workItem from="1703522260163" duration="14000" />
+      <workItem from="1703587334746" duration="4675000" />
+      <workItem from="1703684906278" duration="1780000" />
+      <workItem from="1704362559580" duration="227000" />
+      <workItem from="1710622476529" duration="4991000" />
+      <workItem from="1710665636611" duration="29514000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
