@@ -24,7 +24,7 @@ router.get("/verifyLogin/:email/:otp", verifyLogin);
 router.get("/userLogout", authVerification, userLogout);
 router.post("/createProfile", authVerification,createProfile);
 router.post("/updateProfile", authVerification,updateProfile);
-router.post("/readProfile", authVerification,readProfile);
+router.get("/readProfile", authVerification,readProfile);
 
 
 // Wish
