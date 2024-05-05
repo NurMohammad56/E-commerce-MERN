@@ -64,7 +64,7 @@ const updateProfileService = async (req)=>{
 const readProfileService = async (req)=>{ 
     try {
     let user_id = req.headers.user_id;
-    let result= await profileModel.find({userID:user_id});'''
+    let result= await profileModel.find({userID:user_id});
     return {status : "Success", data: result};
     } catch (e) {
         return {status: "Failed", message:"Something went wrong"};
