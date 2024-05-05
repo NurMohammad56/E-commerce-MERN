@@ -4,7 +4,8 @@ const wishListService = async (req) => {
 
 }
 
-const createWishListService = async (req) => {
+const saveWishListService = async (req) => {
+  
     try {
         let user_id = req.headers.user_id;
         let reqBody = req.body;
@@ -17,10 +18,10 @@ const createWishListService = async (req) => {
         return {status: "Failed", message:"Something went wrong"};
     }
 
-
 }
 
 const removeWishListService = async (req) => {
+    
     try {
         let user_id = req.headers.user_id;
         let reqBody = req.body;
@@ -32,11 +33,10 @@ const removeWishListService = async (req) => {
     catch (e) {
         return {status: "Failed", message:"Something went wrong"};
     }
-
 }
 
 module.exports = {
     wishListService,
-    createWishListService,
+    saveWishListService,
     removeWishListService
 }

@@ -28,8 +28,8 @@ router.get("/readProfile", authVerification,readProfile);
 
 
 // Wish
-// router.post('/createWishList', authVerification,createWishList);
-// router.post('/removeWishList', authVerification,removeWishList);
+router.post('/saveWishList', authVerification,createWishList);
+router.post('/removeWishList', authVerification,removeWishList);
 
 
 
